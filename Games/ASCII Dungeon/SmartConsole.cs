@@ -8,5 +8,12 @@ namespace ASCII_Dungeon
 {
     internal class SmartConsole
     {
+        public static string PromptForInput(string input)
+        {
+            Console.Write(input);
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ReadLine();
+            Console.ForegroundColor= ConsoleColor.White;
+        }
     }
 }

@@ -11,5 +11,12 @@ namespace ASCII_Dungeon
         private string weaponName;
         private int weaponDamage;
         private string weaponType;
+
+        public Weapon(string name, int weaponDamage, string weaponType)
+        {
+            weaponName = name;
+            this.weaponDamage = weaponDamage;
+            this.weaponType = weaponType;
+        }
     }
 }

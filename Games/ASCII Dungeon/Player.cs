@@ -8,10 +8,44 @@ namespace ASCII_Dungeon
 {
     internal class Player
     {
+
+        // fields 
+
+        private string name;
         private int health;
         private int money;
         private Weapon[] weapons;
         private Weapon weapon;
         
+        // Constructor
+
+        public Player()
+        {
+            name = string.Empty;
+            health = 100;
+            money = 0;
+            weapons[0] = new Weapon("Stick", 2, normal);
+        }
+
+        // Properties 
+
+        public string Name
+        {
+            get { return name }
+            set { name = value; }
+        }
+
+        public int Health
+        {
+            get { return health; }
+            set { health = value; }
+        }
+
+        public int Money
+        {
+            get { return money; }
+            set { money = value; }
+        }
+
     }
 }
