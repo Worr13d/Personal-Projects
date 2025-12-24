@@ -1,0 +1,15 @@
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\bin\Debug\net8.0\ASCII Dungeon.exe
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\bin\Debug\net8.0\ASCII Dungeon.deps.json
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\bin\Debug\net8.0\ASCII Dungeon.runtimeconfig.json
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\bin\Debug\net8.0\ASCII Dungeon.dll
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\bin\Debug\net8.0\ASCII Dungeon.pdb
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.AssemblyInfoInputs.cache
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.AssemblyInfo.cs
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.sourcelink.json
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.dll
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\refint\ASCII Dungeon.dll
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.pdb
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ASCII Dungeon.genruntimeconfig.cache
+C:\Users\felto\OneDrive\Documents\GitHub\Personal-Projects\Games\ASCII Dungeon\obj\Debug\net8.0\ref\ASCII Dungeon.dll
