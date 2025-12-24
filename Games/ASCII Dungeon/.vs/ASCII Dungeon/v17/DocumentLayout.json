@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\SmartConsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartConsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:smartconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|c:\\users\\felto\\onedrive\\documents\\github\\personal-projects\\games\\ascii dungeon\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8449EF-2B92-472F-861E-88DCEDC066D4}|ASCII Dungeon.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,11 +39,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Dungeon.cs",
+              "RelativeDocumentMoniker": "Dungeon.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Dungeon.cs*",
+              "RelativeToolTip": "Dungeon.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T20:25:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T18:34:04.902Z",
@@ -51,16 +68,16 @@
               "Title": "SmartConsole.cs",
               "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\SmartConsole.cs",
               "RelativeDocumentMoniker": "SmartConsole.cs",
-              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\SmartConsole.cs",
-              "RelativeToolTip": "SmartConsole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\SmartConsole.cs*",
+              "RelativeToolTip": "SmartConsole.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T18:35:23.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Weapon.cs",
               "RelativeDocumentMoniker": "Weapon.cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
@@ -90,9 +107,9 @@
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\Documents\\GitHub\\Personal-Projects\\Games\\ASCII Dungeon\\Player.cs*",
+              "RelativeToolTip": "Player.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T18:35:01.474Z",
               "EditorCaption": ""

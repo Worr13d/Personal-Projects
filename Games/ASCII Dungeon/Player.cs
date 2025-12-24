@@ -16,22 +16,23 @@ namespace ASCII_Dungeon
         private int money;
         private Weapon[] weapons;
         private Weapon weapon;
-        
+        private int score;
         // Constructor
 
         public Player()
         {
-            name = string.Empty;
+            name = "Player";
             health = 100;
             money = 0;
-            weapons[0] = new Weapon("Stick", 2, normal);
+            weapons = new Weapon[10];
+            weapons[0] = new Weapon("Stick", 2, "normal");
         }
 
         // Properties 
 
         public string Name
         {
-            get { return name }
+            get { return name; }
             set { name = value; }
         }
 
@@ -45,6 +46,11 @@ namespace ASCII_Dungeon
         {
             get { return money; }
             set { money = value; }
+        }
+        public int Score
+        {
+            get { return score; }
+            set { score = value; }
         }
 
     }
