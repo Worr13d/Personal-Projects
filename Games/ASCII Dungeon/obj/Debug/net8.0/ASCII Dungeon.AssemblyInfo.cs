@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASCII Dungeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72a1b0f472f7547d8dfc8c724576b3f16d68cc89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff76959285a11418a4edb453fe82d0db980599b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASCII Dungeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASCII Dungeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
